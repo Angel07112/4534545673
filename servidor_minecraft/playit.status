@@ -1,1062 +1,124 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1752453714316 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1752454333632 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453717375 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453720431 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453723497 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453726552 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453729625 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453732685 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453735741 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453738795 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453741861 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453744919 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453748012 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453751073 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453754138 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453757198 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453760254 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453763319 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453766378 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453769436 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453772490 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453775554 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453778615 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453781671 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453784732 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453787793 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453790875 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453793935 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453796989 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453800045 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453803151 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453806215 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453809306 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453812369 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453815435 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1752453818596 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending: https://playit.gg/account/tunnels/44487c39-d0da-461d-9130-c9f01257b137
-[2J8[0mplayit (v0.15.26): 1752453821670 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending: https://playit.gg/account/tunnels/44487c39-d0da-461d-9130-c9f01257b137
-[2J8[0mplayit (v0.15.26): 1752453824753 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending: https://playit.gg/account/tunnels/44487c39-d0da-461d-9130-c9f01257b137
-[2J8[0mplayit (v0.15.26): 1752453827811 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453830874 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453833935 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453837001 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453840059 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453843122 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453846182 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453849240 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453852318 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453855383 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453858447 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453861511 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453864573 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453867634 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453870727 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453873793 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453876857 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453879919 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453882986 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453886050 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453889122 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453892182 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453895250 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453898313 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453901386 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453904452 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453907518 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453910588 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453913653 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453916727 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453919794 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453922890 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453925949 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453929006 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453932067 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453935128 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453938192 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453941255 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453944311 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453947367 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453950424 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453953507 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453956566 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453959626 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453962682 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453966021 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453969088 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453972157 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453975217 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453978280 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453981340 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453984398 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453987458 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453990512 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453993568 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453996634 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752453999690 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454002759 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454005822 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454008900 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454011953 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454015012 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454018071 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454021130 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454024190 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454027247 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454030311 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454033367 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454036422 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454039478 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454042573 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454045631 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454048686 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454051758 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454054827 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454057901 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454060970 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454064029 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454067084 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454070142 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454073204 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454076260 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454079321 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454082376 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454085453 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454088531 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454091593 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454094654 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454097735 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454100815 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454103896 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454106957 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454110015 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454113103 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454116160 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454119220 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454122291 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454125350 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454128408 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454131476 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454134535 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454137590 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454140645 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454143715 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454146772 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454149835 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454152901 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454155960 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454159025 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454162083 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454165140 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454168198 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454171263 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454174328 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454177384 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454180442 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454183498 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454186555 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454189703 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454192760 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454195859 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454198923 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454202020 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454205086 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454208143 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454211209 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454214264 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454336703 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454217337 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454339774 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454220404 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454342837 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454223461 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454345895 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454226527 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454348953 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454229585 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454352010 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454232650 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454355067 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454235723 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454358136 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454238780 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454361193 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454241864 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454364247 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454244953 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454367306 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454248027 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454370371 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454251094 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454373446 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454254164 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454376504 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454257252 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454379567 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454260311 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454382622 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454263374 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454385677 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454266439 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454388734 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454269498 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454391795 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 role-closure.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 control-laws.gl.at.ply.gg:4532 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1752454272567 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1752454394871 tunnel running, 2 tunnels registered
 
 
 TUNNELS
